@@ -1,0 +1,23 @@
+body {
+	text-align: center;
+	font-family: sans-serif;
+background: rgba(247, 255, 228, 0.5); 
+}
+
+h1 {
+	font-weight: bolder;
+	font-size: 300%;
+}
+
+ul {
+    text-align: center;
+    list-style-type: none;
+}
+
+#slogan {
+	font-style: italic; 
+}
+
+hr{
+	width: 600px;
+}
